@@ -1,0 +1,12 @@
+{'cvecs__title_vectorizer__binary': True,
+ 'cvecs__title_vectorizer__max_df': 0.9,
+ 'cvecs__title_vectorizer__min_df': 1,
+ 'cvecs__title_vectorizer__ngram_range': (1, 1),
+ 'cvecs__title_vectorizer__stop_words': None,
+ 'cvecs__url_content_vectorizer__binary': False,
+ 'cvecs__url_content_vectorizer__max_df': 0.9,
+ 'cvecs__url_content_vectorizer__min_df': 2,
+ 'cvecs__url_content_vectorizer__ngram_range': (2, 2),
+ 'cvecs__url_content_vectorizer__stop_words': 'english'}
+ 
+ Test_score = ~95.6
