@@ -12,3 +12,4 @@
  
  
  Test score 93.5
+ Recall = ~88
